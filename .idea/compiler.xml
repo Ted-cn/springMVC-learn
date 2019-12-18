@@ -9,6 +9,7 @@
         <module name="springmvc_day01_01_start" />
         <module name="springmvc_day02_01_response" />
         <module name="springmvc_day02_02_exception" />
+        <module name="springmvc_day02_03_interceptor" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="springmvc_day02_01_response" target="1.8" />
       <module name="springmvc_day02_02_exception" target="1.8" />
       <module name="springmvc_day02_03_exception" target="1.8" />
+      <module name="springmvc_day02_03_interceptor" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

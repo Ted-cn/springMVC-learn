@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/springmvc_day01_01_start/springmvc_day01_01_start.iml" filepath="$PROJECT_DIR$/springmvc_day01_01_start/springmvc_day01_01_start.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc_day02_01_response/springmvc_day02_01_response.iml" filepath="$PROJECT_DIR$/springmvc_day02_01_response/springmvc_day02_01_response.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc_day02_02_exception/springmvc_day02_02_exception.iml" filepath="$PROJECT_DIR$/springmvc_day02_02_exception/springmvc_day02_02_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_day02_03_interceptor/springmvc_day02_03_interceptor.iml" filepath="$PROJECT_DIR$/springmvc_day02_03_interceptor/springmvc_day02_03_interceptor.iml" />
     </modules>
   </component>
 </project>
